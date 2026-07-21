@@ -1,4 +1,5 @@
 {
+  "framework": "vite",
   "buildCommand": "npx tsc && vite build",
   "outputDirectory": "dist",
   "rewrites": [
